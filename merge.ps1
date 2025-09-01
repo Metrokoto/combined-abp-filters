@@ -46,6 +46,7 @@ $header = @"
 [Adblock Plus 3.6]
 ! Title: Metrokoto Combined List
 ! Updated: $((Get-Date).ToUniversalTime().ToString('o'))
+! Version : $((Get-Date).ToUniversalTime().ToString('o'))
 ! Expires: 2 days (update frequency)
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Homepage: https://github.com/Metrokoto/combined-abp-filters

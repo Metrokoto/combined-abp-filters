@@ -1,0 +1,37 @@
+name: Merge
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  merge:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pwsh ./merge.ps1 -Path ./filterlists.json -OutputPath ./merged.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merged
+          path: ./merged.txt
+          if-no-files-found: error
+      - uses: ncipollo/release-action@v1
+        if: github.ref == 'refs/heads/main'
+        with:
+          name: Latest
+          tag: latest
+          artifacts: ./merged.txt
+          body: |
+            This is the latest release of the merged filter lists.
+          allowUpdates: true
+          makeLatest: true
+          removeArtifacts: true
+          replacesArtifacts: true
+          artifactErrorsFailBuild: true

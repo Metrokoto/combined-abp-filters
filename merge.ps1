@@ -31,6 +31,7 @@ foreach ($list in $json.PSObject.Properties)
             -and -not $_.Contains('#$#') `
             -and -not $_.Contains('+js') `
             -and -not $_.Contains('$important') `
+            -and -not $_.Contains('$xhr') `            
             -and -not $_.Contains('$all') `
             -and -not $_.Contains('$frame') `
             -and -not $_.Contains('$doc') `

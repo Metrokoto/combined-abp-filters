@@ -25,44 +25,10 @@ foreach ($list in $json.PSObject.Properties)
     Write-Host "Merging list '${listName}'..."
     $content = (Invoke-WebRequest -Uri $listUrl -UseBasicParsing).Content
     $lines = $content -split '\r?\n' | Where-Object {
-        -not [string]::IsNullOrWhiteSpace($_) `
-            -and -not $_.StartsWith('!') `
-            -and -not $_.StartsWith('[Ad') `
-            -and -not $_.Contains('#$#') `
-            -and -not $_.Contains('+js') `
-            -and -not $_.Contains('$important') `
-            -and -not $_.Contains('$xhr') `            
-            -and -not $_.Contains('$all') `
-            -and -not $_.Contains('$frame') `
-            -and -not $_.Contains('$doc') `
-            -and -not $_.Contains('$cname') `
-            -and -not $_.Contains('$css') `
-            -and -not $_.Contains('$denyallow') `
-            -and -not $_.Contains('$from') `
-            -and -not $_.Contains('$ghide') `
-            -and -not $_.Contains('$ehide') `
-            -and -not $_.Contains('$inline-script') `
-            -and -not $_.Contains('$inline-font') `
-            -and -not $_.Contains('$ipaddress') `
-            -and -not $_.Contains('$method') `
-            -and -not $_.Contains('$permissions') `
-            -and -not $_.Contains('$specifichide') `
-            -and -not $_.Contains('$shide') `
-            -and -not $_.Contains('$strict1p') `
-            -and -not $_.Contains('$strict3p') `
-            -and -not $_.Contains('$to') `
-            -and -not $_.Contains('$empty') `
-            -and -not $_.Contains('$mp4') `
-            -and -not $_.Contains('$redirect') `
-            -and -not $_.Contains('$removeparam') `
-            -and -not $_.Contains('$replace') `
-            -and -not $_.Contains('$uritransform') `
-            -and -not $_.Contains('$urlskip') `
-            -and -not $_.Contains('$popunder') `
-            -and -not $_.Contains('$*') `
-            -and -not $_.Contains('$_') `
-            -and -not $_.Contains('$1p') `
-            -and -not $_.Contains('$3p')
+    -not [string]::IsNullOrWhiteSpace($_) -and
+    -not ($_ -match '^\!') -and
+    -not ($_ -match '^\[Ad') -and
+    -not ($_ -match '\$(important|xhr|all|frame|doc|cname|css|denyallow|from|ghide|ehide|inline-script|inline-font|ipaddress|method|permissions|specifichide|shide|strict1p|strict3p|to|empty|mp4|redirect|removeparam|replace|uritransform|urlskip|popunder|\*|_|1p|3p)')
     }
     foreach ($line in $lines)
     {

@@ -5,6 +5,7 @@
   "EasyList_Newsletters": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/thirdparties/easylist/easylist-newsletters.txt",
   "EasyList_Notifications": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/thirdparties/easylist/easylist-notifications.txt",
   "EasyList_Anti_Adblock": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+  "EasyList_Circumvention": "https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt",
   "BadBlock_Plus": "https://badblock.celenity.dev/abp/badblock_plus.txt",
   "BadBlock_Click_Tracking": "https://badblock.celenity.dev/abp/click-tracking.txt",
   "BadBlock_Fonts": "https://badblock.celenity.dev/abp/fonts.txt",

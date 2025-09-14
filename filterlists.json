@@ -17,6 +17,7 @@
   "Metrokoto_Annoyances": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/annoyance_list_full.txt",
   "Metrokoto_Privacy_Essentials": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/privacy_essentials_full.txt",
   "AdVoid_DNS": "https://raw.githubusercontent.com/the-advoid/ad-void/refs/heads/main/AdVoid.DNS.txt",
+  "Combined_Privacy_Blocklists": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt",
   "Kees1958_Third_Party_Trackers": "https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt",
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",
   "Im_OK_With_Cookies": "https://raw.githubusercontent.com/Rudloff/adblock-imokwithcookies/master/filters.txt",

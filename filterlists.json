@@ -1,6 +1,7 @@
 {
-  "EasyList_Ultimate": "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
-  "EasyList_Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+  "Fanboy_Ultimate": "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
+  "Fanboy_Agegate": "https://fanboy.co.nz/fanboy-agegate.txt",
+  "Fanboy_Facebook": "https://fanboy.co.nz/fanboy-antifacebook.txt",
   "BadBlock_Plus": "https://badblock.celenity.dev/abp/badblock_plus.txt",
   "BadBlock_Click_Tracking": "https://badblock.celenity.dev/abp/click-tracking.txt",
   "BadBlock_Fonts": "https://badblock.celenity.dev/abp/fonts.txt",
@@ -11,6 +12,7 @@
   "Metrokoto_Hardening_WebRTC": "https://raw.githubusercontent.com/Metrokoto/abp-hardening/refs/heads/main/block-webrtc.txt",
   "Metrokoto_Annoyances_Full": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/annoyance_list_full.txt",
   "Metrokoto_Privacy_Essentials_Full": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/privacy_essentials_full.txt",
+  "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
   "AdVoid_DNS": "https://raw.githubusercontent.com/the-advoid/ad-void/refs/heads/main/AdVoid.DNS.txt",
   "Kees1958_Third_Party_Trackers": "https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/refs/heads/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt",
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",

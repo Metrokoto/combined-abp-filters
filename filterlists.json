@@ -4,15 +4,16 @@
   "BadBlock_Plus": "https://badblock.celenity.dev/abp/badblock_plus.txt",
   "BadBlock_Click_Tracking": "https://badblock.celenity.dev/abp/click-tracking.txt",
   "BadBlock_Fonts": "https://badblock.celenity.dev/abp/fonts.txt",
-  "BadBlock_Crap": "https://badblock.celenity.dev/abp/crap.txt",
-  "Metrokoto_Hardening_LAN": "https://raw.githubusercontent.com/Metrokoto/abp-hardening/refs/heads/main/block-lan.txt",
-  "Metrokoto_Hardening_Object": "https://raw.githubusercontent.com/Metrokoto/abp-hardening/refs/heads/main/block-object.txt",
-  "Metrokoto_Hardening_Ping": "https://raw.githubusercontent.com/Metrokoto/abp-hardening/refs/heads/main/block-ping.txt",
-  "Metrokoto_Hardening_WebRTC": "https://raw.githubusercontent.com/Metrokoto/abp-hardening/refs/heads/main/block-webrtc.txt",
-  "Metrokoto_Annoyances_Full": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/annoyance_list_full.txt",
-  "Metrokoto_Privacy_Essentials_Full": "https://raw.githubusercontent.com/Metrokoto/filterlists/refs/heads/main/privacy_essentials_full.txt",
-  "AdVoid_Full": "https://raw.githubusercontent.com/the-advoid/ad-void/refs/heads/main/AdVoid.Full.txt",
+  "Metrokoto_Hardening_LAN": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-lan.txt",
+  "Metrokoto_Hardening_Object": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-object.txt",
+  "Metrokoto_Hardening_Ping": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-ping.txt",
+  "Metrokoto_Hardening_WebRTC": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-webrtc.txt",
+  "Metrokoto_Annoyances_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/annoyance_list_full.txt",
+  "Metrokoto_Privacy_Essentials_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/privacy_essentials_full.txt",
+  "AdVoid_Full": "cdn.jsdelivr.net/gh/the-advoid/ad-void/AdVoid.Full.txt",
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",
-  "I_Dont_Care_About_Age_Verification": "https://raw.githubusercontent.com/Metrokoto/IDCAAV/refs/heads/main/idcaav.txt"
+  "I_Dont_Care_About_Age_Verification": "https://cdn.jsdelivr.net/gh/Metrokoto/IDCAAV/idcaav.txt",
+  "Yt_Neuter": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter/yt-neuter.txt",
+  "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt/Special%20security%20lists/AntiFaviconList.txt"
 }
 

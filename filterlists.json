@@ -9,7 +9,6 @@
   "Metrokoto_Hardening_Ping": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-ping.txt",
   "Metrokoto_Hardening_WebRTC": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-webrtc.txt",
   "Metrokoto_Annoyance_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/annoyance_list_full.txt",
-  "Metrokoto_Privacy_Essentials_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/privacy_essentials_full.txt",
   "Metrokoto_YouTube_Clear_View": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/youtube_clear_view.txt",
   "Metrokoto_Personal": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/personal.txt",
   "Metrokoto_Enhanced_Site_Protection": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/enhanced_site_protection.txt",

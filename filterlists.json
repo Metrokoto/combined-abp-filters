@@ -9,8 +9,7 @@
   "Metrokoto_Hardening_Ping": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-ping.txt",
   "Metrokoto_Hardening_WebRTC": "https://cdn.jsdelivr.net/gh/Metrokoto/abp-hardening/block-webrtc.txt",
   "Metrokoto_Annoyances_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/annoyance_list_full.txt",
-  "Metrokoto_Privacy_Essentials_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists/privacy_essentials_full.txt",
-  "AdVoid_DNS": "cdn.jsdelivr.net/gh/the-advoid/ad-void/AdVoid.DNS.txt",
+  "AdVoid_Full": "cdn.jsdelivr.net/gh/the-advoid/ad-void/AdVoid.DNS.txt",
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",
   "I_Dont_Care_About_Age_Verification": "https://cdn.jsdelivr.net/gh/Metrokoto/IDCAAV/idcaav.txt",
   "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt/Special%20security%20lists/AntiFaviconList.txt"

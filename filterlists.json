@@ -32,6 +32,9 @@
   "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
   "Anti_Paywall_Filters": "https://cdn.jsdelivr.net/gh/liamengland1/miscfilters@latest/antipaywall.txt",
   "Browse_Websites_Without_Logging_In": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/BrowseWebsitesWithoutLoggingIn.txt",
+  "Empty_Padding_Remover": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/EmptyPaddingRemover.txt",
+  "Staying_On_The_Phone_Browser": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/stayingonbrowser/Staying%20On%20The%20Phone%20Browser",
+  "Ad_Removal_List_For_Unusual_Ads": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AdRemovalListForUnusualAds.txt",
   "Dandelion_Sprout_Annoyances_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AnnoyancesList",
   "Dandelion_Sprout_Anti_Malware_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Alternate%20versions%20Anti-Malware%20List/AntiMalwareABP.txt"
 }

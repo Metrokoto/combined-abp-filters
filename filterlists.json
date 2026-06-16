@@ -1,6 +1,5 @@
 {
   "Fanboy_Ultimate": "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
-  "Fanboy_Agegate": "https://fanboy.co.nz/fanboy-agegate.txt",
   "Fanboy_Anti_Comment": "https://cdn.jsdelivr.net/gh/ryanbr/fanboy-adblock@latest/fanboy-anticomments.txt",
   "Fanboy_Anti_Facebook": "https://fanboy.co.nz/fanboy-antifacebook.txt",
   "BadBlock_Plus": "https://badblock.celenity.dev/abp/badblock_plus.txt",
@@ -13,21 +12,17 @@
   "Metrokoto_Privacy_Essentials_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists@latest/privacy_essentials_full.txt",
   "Metrokoto_Annoyance_Full": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists@latest/annoyance_list_full.txt",
   "Metrokoto_YouTube_Clear_View": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists@latest/youtube_clear_view.txt",
-  "Metrokoto_Personal": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists@latest/personal.txt",
   "Metrokoto_Enhanced_Site_Protection": "https://cdn.jsdelivr.net/gh/Metrokoto/filterlists@latest/enhanced_site_protection.txt",
   "AdVoid_Full": "https://cdn.jsdelivr.net/gh/the-advoid/ad-void@latest/AdVoid.Full.txt",
   "AdVoid_Legacy_Addon_All": "https://cdn.jsdelivr.net/gh/the-advoid/ad-void@latest/legacy/add-ons/AdVoid.Legacy.Addon.All.txt",
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",
   "I_Dont_Care_About_Age_Verification": "https://cdn.jsdelivr.net/gh/Metrokoto/IDCAAV@latest/idcaav.txt",
-  "I_Dont_Want_To_Download_Your_Browser": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt",
   "YT_Neuter": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/yt-neuter.txt",
-  "YT_Neuter_Misc": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/filters/misc.txt",
   "YT_Neuter_No_Live": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/filters/nolive.txt",
   "YT_Neuter_No_Music": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/filters/nomusic.txt",
   "YT_Neuter_No_Shorts": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/filters/noshorts.txt",
   "Social_Share_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/SocialShareList.txt",
   "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Special%20security%20lists/AntiFaviconList.txt",
-  "Anti_Macro_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AntiMacroList.txt",
   "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
   "Anti_Paywall_Filters": "https://cdn.jsdelivr.net/gh/liamengland1/miscfilters@latest/antipaywall.txt",
   "Anti_Functionality_Removal_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AntiFunctionalityRemovalList.txt",
@@ -35,9 +30,6 @@
   "Browse_Websites_Without_Logging_In": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/BrowseWebsitesWithoutLoggingIn.txt",
   "Empty_Padding_Remover": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/EmptyPaddingRemover.txt",
   "Staying_On_The_Phone_Browser": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/stayingonbrowser/Staying%20On%20The%20Phone%20Browser",
-  "Stop_Autoplay_On_Video_Sites": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/StopAutoplayOnYouTube.txt",
   "Ad_Removal_List_For_Unusual_Ads": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AdRemovalListForUnusualAds.txt",
-  "Dandelion_Sprout_Annoyances_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AnnoyancesList",
-  "Dandelion_Sprout_Anti_Malware_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Alternate%20versions%20Anti-Malware%20List/AntiMalwareABP.txt"
 }
 

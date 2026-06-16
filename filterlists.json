@@ -1,6 +1,15 @@
 {
+  "EasyList": "https://easylist.to/easylist/easylist.txt",
+  "EasyPrivacy": "https://easylist.to/easylist/easyprivacy.txt",
+  "Fanboy_Cookiemonster": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
+  "Fanboy_Social": "https://easylist.to/easylist/fanboy-social.txt",
   "Fanboy_Ultimate": "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
   "Fanboy_Agegate": "https://fanboy.co.nz/fanboy-agegate.txt",
+  "Fanboy_Anti_Comment": "https://cdn.jsdelivr.net/gh/ryanbr/fanboy-adblock@latest/fanboy-anticomments.txt",
+  "Fanboy_Anti_Fonts": "https://fanboy.co.nz/fanboy-antifonts.txt",
+  "Fanboy_Notifications": "https://easylist-downloads.adblockplus.org/fanboy-notifications.txt",
+  "Fanboy_Annoyance": "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt",
+  "Fanboy_Anti_Facebook": "https://fanboy.co.nz/fanboy-antifacebook.txt",
   "BadBlock_Plus": "https://badblock.celenity.dev/abp/badblock_plus.txt",
   "BadBlock_Click_Tracking": "https://badblock.celenity.dev/abp/click-tracking.txt",
   "BadBlock_Fonts": "https://badblock.celenity.dev/abp/fonts.txt",
@@ -19,6 +28,9 @@
   "I_Dont_Care_About_Cookies": "https://www.i-dont-care-about-cookies.eu/abp/",
   "I_Dont_Care_About_Age_Verification": "https://cdn.jsdelivr.net/gh/Metrokoto/IDCAAV@latest/idcaav.txt",
   "YT_Neuter": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/yt-neuter.txt",
-  "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Special%20security%20lists/AntiFaviconList.txt"
+  "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Special%20security%20lists/AntiFaviconList.txt",
+  "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+  "Dandelion_Sprout_Annoyances_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AnnoyancesList",
+  "Dandelion_Sprout_Anti_Malware_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Alternate%20versions%20Anti-Malware%20List/AntiMalwareABP.txt"
 }
 

@@ -30,6 +30,8 @@
   "YT_Neuter": "https://cdn.jsdelivr.net/gh/mchangrh/yt-neuter@latest/yt-neuter.txt",
   "Anti_Favicon_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Special%20security%20lists/AntiFaviconList.txt",
   "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+  "Anti_Paywall_Filters": "https://cdn.jsdelivr.net/gh/liamengland1/miscfilters@latest/antipaywall.txt",
+  "Browse_Websites_Without_Logging_In": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/BrowseWebsitesWithoutLoggingIn.txt",
   "Dandelion_Sprout_Annoyances_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AnnoyancesList",
   "Dandelion_Sprout_Anti_Malware_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/Alternate%20versions%20Anti-Malware%20List/AntiMalwareABP.txt"
 }

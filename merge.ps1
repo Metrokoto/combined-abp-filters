@@ -24,17 +24,20 @@ foreach ($list in $json.PSObject.Properties)
 
     Write-Host "Merging list '${listName}'..."
     $content = (Invoke-WebRequest -Uri $listUrl -UseBasicParsing).Content
+
     $lines = $content -split '\r?\n' | Where-Object {
-    -not [string]::IsNullOrWhiteSpace($_) -and
-    -not ($_ -match '^\!') -and
-    -not ($_ -match '^\[Ad') -and
-    -not ($_ -match '\$(important|xhr|all|frame|doc|cname|css|denyallow|from|ghide|ehide|strict-first-party|strict-third-party|inline-script|inline-font|ipaddress|method|permissions|specifichide|shide|strict1p|strict3p|to|empty|mp4|redirect|removeparam|replace|uritransform|urlskip|popunder|\*|_|1p|3p)')
+        -not [string]::IsNullOrWhiteSpace($_) -and
+        -not ($_ -match '^\!') -and
+        -not ($_ -match '^\[Ad') -and
+        -not ($_ -match '\$(?:[^,\s]+,)*(?:important|xhr|all|frame|doc|cname|css|denyallow|from|ghide|ehide|strict-first-party|strict-third-party|inline-script|inline-font|ipaddress|method|permissions|specifichide|shide|strict1p|strict3p|to|empty|mp4|redirect|removeparam|replace|uritransform|urlskip|popunder|script|\*|_|1p|3p)(?=,|=|$)')
     }
+
     foreach ($line in $lines)
     {
         $merged.Add($line) | Out-Null
     }
 }
+
 
 Write-Host "Writing $($merged.Count) merged rules..."
 

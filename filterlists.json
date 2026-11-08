@@ -50,5 +50,6 @@
   "Adblock_Warning_Removal_List": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
   "Anti_Functionality_Removal_List": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/AntiFunctionalityRemovalList.txt",
   "Browse_Websites_Without_Logging_In": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@latest/BrowseWebsitesWithoutLoggingIn.txt",
-  "Third_Party_Filters": "https://cdn.jsdelivr.net/gh/Kees1958/W3C_annual_most_used_survey_blocklist@latest/EU_US_MV3_most_common_ad%2Btracking_networks.txt"
+  "Third_Party_Filters": "https://cdn.jsdelivr.net/gh/Kees1958/W3C_annual_most_used_survey_blocklist@latest/EU_US_MV3_most_common_ad%2Btracking_networks.txt",
+  "Cookie_Filters": "https://cdn.jsdelivr.net/gh/r4vi/block-the-eu-cookie-shit-list@latest/filterlist.txt"
 }

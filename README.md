@@ -3,6 +3,9 @@ This repository is for my personal ABP blocklist used across all of my deploymen
 
 Updates daily at 00:00 UTC.
 
+Subscribe via:
+``https://github.com/Metrokoto/combined-abp-filters/releases/download/latest/merged.txt``
+
 ## But why combine them...?
 There are many reasons why I choose to do this, however, this repository came about after I discovered having too many filters added to Cromite's fork of it caused some rules to simply not apply.
 
